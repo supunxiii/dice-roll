@@ -78,7 +78,7 @@ The Dice Roll Android application offers the following features:
 
 ## User Interfaces
 
-### UI
+### UIs
 
 ![Dice Roll UI](https://github.com/supunxiii/supunxiii/blob/7653f59dcf38771e7791a1cc0795c9d6b4cdcd3c/user-interfaces/dice-roll/dice-roll-ui-1.png)
 
@@ -256,7 +256,7 @@ Potential improvements for future versions:
 
 ## Contact
 
-For any enquiries or feedback, please contact the development team:
+For any inquiries or feedback, please contact the developer:
 
 - **Supun Wijesooriya**: [GitHub Profile](https://github.com/supunxiii)
 - **Project Repository**: [dice-roll](https://github.com/supunxiii/dice-roll)
